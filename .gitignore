@@ -1,2 +1,3 @@
 /.idea
-Nginx-1.12_vhost.conf
+/Nginx-1.12_vhost.conf
+/favicon.ico
