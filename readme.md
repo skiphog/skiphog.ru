@@ -1,1 +1,1 @@
-test repo for [skiphog.ru](https::/skiphog.ru)
+test repo for [skiphog.ru](https://skiphog.ru)
